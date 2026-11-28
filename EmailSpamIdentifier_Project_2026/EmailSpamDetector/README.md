@@ -20,6 +20,9 @@ and use it alongside other filtering to clean the training data, and train the s
 After training it will perform the calculations and present information, files, and calculated probability
 in the GUI.
 
+## Java Project Summary
+
+This is a Java desktop application built with Maven and Swing. It preprocesses training and test email files, then uses a Bayes-based probability model to estimate whether messages are spam or ham. The GUI displays results for the available test folders. Results depend on the supplied data and should not be treated as a guarantee of accuracy.
 
 ## Screenshots:
 
