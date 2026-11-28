@@ -1,0 +1,50 @@
+DIAGNOSTIC IMAGING REPORT
+
+PATIENT NAME: DOE, Jane MRN: #884-29-105 DOB: May 12, 1968 DATE OF EXAM: January 24, 2026 ACCESSION: #MRI-2026-0921 REFERRING PHYSICIAN: Dr. H. Patel, Oncology EXAM: MRI THORAX AND BILATERAL LOWER EXTREMITIES WITH CONTRAST
+
+CLINICAL INDICATION: Assessment of disease burden; staging. Patient presents with unexplained weight loss and cough. Rule out paraneoplastic syndrome vs. metastatic disease.
+
+TECHNIQUE: Multiplanar, multisequence MRI of the thorax and bilateral lower extremities was performed.
+
+    Sequences: T1-weighted TSE, T2-weighted TSE (fat-saturated and non-fat-saturated), STIR (Short Tau Inversion Recovery), and Diffusion-Weighted Imaging (DWI) with ADC mapping.
+
+    Contrast: Dynamic post-contrast T1-weighted imaging was performed following the intravenous administration of 0.1 mmol/kg gadobutrol.
+
+FINDINGS:
+
+THORAX: Primary Lesion: There is a large, lobulated, soft-tissue mass lesion centered in the anterior segment of the right upper lobe (RUL), abutting the mediastinal pleura. The mass measures approximately 5.4 x 4.1 x 4.8 cm (CC x AP x TR).
+
+    Signal Characteristics: The lesion demonstrates isointense signal on T1-weighted images and heterogeneous hyperintensity on T2-weighted/STIR sequences.
+
+    Diffusion: There is marked hyperintensity on high b-value DWI with corresponding hypointensity on the ADC map, consistent with restricted diffusion and high cellularity.
+
+    Enhancement: Following contrast administration, the mass exhibits avid, heterogeneous arterial phase enhancement with partial washout in the delayed phase. Central areas of non-enhancement are suggestive of central necrosis.
+
+    Local Extension: The mass exerts mass effect upon the right brachiocephalic vein and abuts the superior vena cava (SVC) without frank intraluminal invasion or thrombosis. There is encasement of the apical segmental bronchus of the right upper lobe.
+
+Lymph Nodes: There is mild, multilevel mediastinal and right hilar lymphadenopathy.
+
+    A right paratracheal lymph node measures 1.3 x 1.1 cm in short axis.
+
+    Subcarinal nodes are prominent, measuring up to 1.2 cm in short axis.
+
+    Morphology: The nodes exhibit uniform, homogeneous enhancement. While the fatty hilum is partially obscured in the right hilar node, the remaining nodes retain an oval morphology. These findings are indeterminate; while potentially reactive in etiology, metastatic involvement cannot be excluded given the primary findings.
+
+Other: The heart and great vessels are otherwise unremarkable. No pleural effusion or pericardial effusion is identified. The visualized bony thorax is free of lytic or blastic lesions.
+
+LOWER EXTREMITIES: Osseous Structures: The marrow signal intensity of the bilateral femurs, tibias, and fibulas is preserved. There are no focal T1 hypointense lesions or STIR hyperintense abnormalities to suggest marrow replacement or osseous metastatic disease. Cortical integrity is maintained. Soft Tissues: The musculature of the anterior, posterior, and lateral compartments of the thighs and calves is symmetric with normal signal intensity. There is no evidence of muscle edema, mass lesions, or fluid collections. The subcutaneous fat is unremarkable. Vascular: Flow voids are preserved in the major distinct run-off vessels. No evidence of deep venous thrombosis in the popliteal or femoral veins.
+IMPRESSION:
+
+    RIGHT UPPER LOBE MASS (5.4 cm): Imaging features, including restricted diffusion, heterogeneous contrast enhancement, and central necrosis, are highly suspicious for a primary bronchogenic carcinoma (likely non-small cell etiology). The mass creates local effect on the right upper lobe bronchus and abuts the SVC.
+
+    MEDIASTINAL AND HILAR LYMPHADENOPATHY: Mildly enlarged nodes in the right paratracheal and subcarinal stations. While morphology preserves some benign features suggesting a reactive inflammatory process, the presence of the primary mass necessitates tissue sampling to rule out N2 metastatic disease.
+
+    NORMAL LOWER EXTREMITIES: No evidence of osseous metastasis, soft tissue malignancy, or deep vein thrombosis in the lower limbs.
+
+RECOMMENDATION:
+
+    Urgent Pulmonology/Thoracic Surgery referral for bronchoscopy or CT-guided biopsy for histopathological characterization.
+
+    Consider PET/CT for definitive metabolic staging of the mediastinal nodes and evaluation of distant metastasis.
+
+Electronically Signed By: Dr. Marcus Vane, MD, FRCPC Board Certified Radiologist Fellowship in Oncologic Imaging Report Finalized: Jan 24, 2026, 16:15 EST

@@ -1,0 +1,6 @@
+This app is a prototype that simplifies information for learning. It does not give legal, medical, or financial advice.
+The summaries are made by AI, so they may be incomplete or incorrect. Always check important information with a professional.
+You are responsible for how you use the app. Using it does not create a professional relationship.
+Rules and laws vary by location. The app may contain errors or missing features.
+
+By using this app, you agree to these terms.

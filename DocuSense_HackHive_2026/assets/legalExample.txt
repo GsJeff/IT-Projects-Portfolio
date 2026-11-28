@@ -1,0 +1,105 @@
+**END USER LICENSE AGREEMENT (EULA)**
+
+**Platform:** HereIAm
+
+**Last Updated:** January 24, 2026
+
+**Effective Date:** January 24, 2026
+
+**THIS END USER LICENSE AGREEMENT (“AGREEMENT”) IS A BINDING LEGAL CONTRACT BETWEEN YOU (“USER,” “YOU,” OR “LICENSEE”) AND HEREIAM, INC. (“LICENSOR,” “COMPANY,” “WE,” OR “US”). BY DOWNLOADING, INSTALLING, ACCESSING, OR USING THE HEREIAM MOBILE APPLICATION, WEBSITE, OR SERVICES (COLLECTIVELY, THE “PLATFORM”), YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THESE TERMS, YOU MUST IMMEDIATELY CEASE ALL USE OF THE PLATFORM AND UNINSTALL THE APPLICATION.**
+
+---
+
+### **1. GRANT OF LICENSE**
+
+Subject to your strict compliance with this Agreement, Licensor grants you a limited, non-exclusive, non-transferable, revocable license to access and use the Platform for personal, non-commercial purposes strictly in accordance with the terms herein. This license does not imply any transfer of ownership of the Platform or its underlying intellectual property to you.
+
+---
+
+### **2. PROPRIETARY RIGHTS AND USER CONTENT**
+
+#### **2.1 Assignment of Rights in User Content**
+
+By uploading, posting, transmitting, sharing, or otherwise making available any text, images, audio, video, metadata, or other materials (“User Content”) on or through the Platform, **YOU HEREBY IRREVOCABLY GRANT, ASSIGN, AND TRANSFER TO LICENSOR ALL RIGHT, TITLE, AND INTEREST IN AND TO SUCH USER CONTENT ON A GLOBAL BASIS.**
+
+To the extent that ownership cannot be transferred under applicable law, you hereby grant Licensor an **unrestricted, perpetual, irrevocable, non-exclusive, fully-paid, royalty-free, sublicensable, and transferable worldwide license** to use, host, store, reproduce, modify, create derivative works of, communicate, publish, publicly perform, publicly display, and distribute such User Content for any purpose, including but not limited to commercial, advertising, marketing, and analytical purposes, across all media formats and channels now known or later developed.
+
+#### **2.2 Waiver of Moral Rights**
+
+You explicitly and irrevocably waive, to the maximum extent permitted by applicable law, all “moral rights” or similar rights (including rights of integrity, attribution, and paternity) regarding your User Content. You agree not to assert any claim against Licensor, its affiliates, or sublicensees based on such moral rights.
+
+#### **2.3 User Representations and Warranties**
+
+You represent and warrant that: (i) you are the sole and exclusive owner of all User Content or have all necessary rights, licenses, consents, and releases to grant the rights assigned herein; and (ii) neither the User Content nor your submission of it infringes, misappropriates, or violates a third party’s patent, copyright, trademark, trade secret, moral rights, or other proprietary or intellectual property rights, or rights of publicity or privacy.
+
+---
+
+### **3. DATA COLLECTION, USAGE, AND PRIVACY**
+
+#### **3.1 Data Collection**
+
+You acknowledge and agree that Licensor collects, processes, and stores data related to your use of the Platform, including but not limited to:
+(a) **Personal Data:** Name, email address, phone number, biometric data, geolocation, and IP address.
+(b) **Usage Data:** Interaction patterns, browsing history, clickstream data, and time spent on the Platform.
+(c) **Device Metadata:** Device ID, operating system, unique device identifiers, and hardware specifications.
+
+#### **3.2 Rights to Use and Monetize Data**
+
+Notwithstanding any other provision, Licensor reserves the right to aggregate, anonymize, process, analyze, and exploit all User Data for any purpose, including:
+(a) Improving and optimizing the Platform;
+(b) Developing new products and services;
+(c) Creating user profiles for targeted advertising; and
+(d) Conducting market research.
+
+#### **3.3 Third-Party Sharing and Sale of Data**
+
+You expressly consent to Licensor’s unrestricted right to sell, license, rent, disclose, or share your User Data (including Personal Data, subject to Section 3.4) with third parties, including but not limited to advertisers, affiliates, strategic partners, data brokers, and analytics providers, **without further notice or compensation to you.**
+
+#### **3.4 Regulatory Compliance (GDPR, CCPA, etc.)**
+
+While Licensor retains broad rights to User Data, we acknowledge our obligations under applicable data protection laws, including the **General Data Protection Regulation (EU) 2016/679 (“GDPR”)** and the **California Consumer Privacy Act of 2018 (“CCPA”).**
+
+* **For EU Residents:** The processing of your data is based on contract necessity (Art. 6(1)(b) GDPR) and legitimate interests (Art. 6(1)(f) GDPR). You retain rights to access, rectification, erasure, and portability strictly as defined under GDPR.
+* **For California Residents:** You have the right to opt-out of the sale of your personal information. To exercise this right, you must submit a verifiable consumer request to our designated Data Protection Officer at privacy@hereiam.com.
+
+---
+
+### **4. DISCLAIMER OF WARRANTIES**
+
+THE PLATFORM IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS, WITH ALL FAULTS AND WITHOUT WARRANTY OF ANY KIND. TO THE FULLEST EXTENT PERMITTED BY LAW, LICENSOR EXPRESSLY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, QUIET ENJOYMENT, AND NON-INFRINGEMENT. LICENSOR DOES NOT WARRANT THAT THE PLATFORM WILL MEET YOUR REQUIREMENTS, THAT OPERATION WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT DEFECTS WILL BE CORRECTED.
+
+---
+
+### **5. LIMITATION OF LIABILITY**
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL LICENSOR, ITS AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, OR LICENSORS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF PROFITS, DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM (I) YOUR ACCESS TO OR USE OF OR INABILITY TO ACCESS OR USE THE PLATFORM; (II) ANY CONDUCT OR CONTENT OF ANY THIRD PARTY ON THE PLATFORM; OR (III) UNAUTHORIZED ACCESS, USE, OR ALTERATION OF YOUR TRANSMISSIONS OR CONTENT, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), OR ANY OTHER LEGAL THEORY, WHETHER OR NOT LICENSOR HAS BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+**IN NO EVENT SHALL LICENSOR’S AGGREGATE LIABILITY FOR ALL CLAIMS RELATING TO THE PLATFORM EXCEED THE GREATER OF ONE HUNDRED U.S. DOLLARS ($100.00) OR THE AMOUNT YOU PAID LICENSOR, IF ANY, IN THE LAST 12 MONTHS.**
+
+---
+
+### **6. INDEMNIFICATION**
+
+You agree to defend, indemnify, and hold harmless Licensor and its licensee and licensors, and their employees, contractors, agents, officers, and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney’s fees), resulting from or arising out of (a) your use and access of the Platform, by you or any person using your account and password; (b) a breach of these terms, including Section 2; or (c) your violation of any law or the rights of a third party.
+
+---
+
+### **7. TERMINATION**
+
+Licensor may terminate or suspend your account and bar access to the Platform immediately, without prior notice or liability, under our sole discretion, for any reason whatsoever and without limitation, including but not limited to a breach of this Agreement. Upon termination, your right to use the Platform will immediately cease. All provisions of this Agreement which by their nature should survive termination shall survive, including, without limitation, ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
+
+---
+
+### **8. GOVERNING LAW AND JURISDICTION**
+
+This Agreement shall be governed and construed in accordance with the laws of the State of Delaware, United States, without regard to its conflict of law provisions. You explicitly agree to submit to the exclusive jurisdiction of the state and federal courts located within Delaware for the resolution of any disputes arising out of or relating to this Agreement. For users residing in the European Union, mandatory consumer protection provisions of the law of your country of residence shall apply where required.
+
+---
+
+### **9. SEVERABILITY AND WAIVER**
+
+If any provision of this Agreement is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law, and the remaining provisions will continue in full force and effect. The failure of Licensor to enforce any right or provision of this Agreement will not be deemed a waiver of such right or provision.
+
+---
+
+**BY CLICKING “I AGREE,” CHECKING A CHECKBOX, OR ACCESSING THE PLATFORM, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.**

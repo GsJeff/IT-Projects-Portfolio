@@ -1,0 +1,156 @@
+**DATED:** JANUARY 24, 2026
+
+**BETWEEN:**
+
+**DOMINION SOVEREIGN BANK OF CANADA**, a chartered bank governed by the *Bank Act* (Canada), having a branch office at 100 King Street West, Toronto, Ontario (hereinafter referred to as the **“Lender”** or **“Chargee”**)
+
+– AND –
+
+**JOHN ARTHUR DOE**, an individual resident in the City of Mississauga, in the Province of Ontario (hereinafter referred to as the **“Borrower”** or **“Chargor”**)
+
+**SUBJECT PROPERTY:**
+Legal Description: [Insert Legal Description], City of Toronto, Regional Municipality of Metro Toronto.
+Municipal Address: 123 Maple Avenue, Toronto, Ontario, M4B 1B3 (the **“Property”**).
+
+---
+
+### ARTICLE I: INTERPRETATION AND DEFINITIONS
+
+**1.01 Definitions.**
+In this Agreement, unless there is something in the subject matter or context inconsistent therewith, the following terms shall have the meanings ascribed to them below:
+
+(a) **“Acceleration”** means the Lender’s exercise of its right to demand immediate payment of the entire Outstanding Principal Amount and all Accrued Interest upon the occurrence of an Event of Default, effectively terminating any previously agreed upon amortization schedule.
+(b) **“Compound Period”** means the frequency with which interest is compounded. For the purposes of this Agreement and in accordance with the *Interest Act* (Canada), interest is compounded semi-annually, not in advance.
+(c) **“Disbursement Conditions”** means those conditions precedent that must be satisfied to the Lender’s sole and absolute satisfaction prior to the advance of funds, including but not limited to: (i) receipt of a solicitor’s final report on title certifying the Lender has a first-ranking charge against the Property; (ii) confirmation of valid fire and hazard insurance; and (iii) compliance with all "Know Your Client" (KYC) and Anti-Money Laundering (AML) regulations.
+(d) **“Effective Rate”** means the actual annualized interest rate paid on the Principal, taking into account the effect of compounding during the Compound Period.
+(e) **“Indebtedness”** means the Principal Amount, interest, compound interest, costs, charges, expenses, and all other monies payable by the Borrower to the Lender under this Agreement or the Charge.
+(f) **“Interest Adjustment Date” (IAD)** means the date from which the Term is calculated and regular blended payments commence. Interest accrued between the date of advance and the IAD shall be due and payable on the IAD.
+
+---
+
+### ARTICLE II: RECITALS
+
+**WHEREAS** the Borrower is the registered owner (or is entitled to become the registered owner) of an estate in fee simple in the Property;
+
+**AND WHEREAS** the Borrower has applied to the Lender for a loan to be secured by a charge/mortgage against the Property;
+
+**AND WHEREAS** the Lender has agreed to advance the Principal Amount to the Borrower subject to the terms, covenants, and conditions hereinafter set forth and strictly in accordance with the Standard Charge Terms registered under the *Land Registration Reform Act* (Ontario).
+
+---
+
+### ARTICLE III: FINANCIAL COVENANTS AND PAYMENT TERMS
+
+**3.01 Loan Particulars.**
+The Borrower covenants and agrees to pay the Lender the Indebtedness in accordance with the following schedule:
+
+* **Principal Amount:** $750,000.00 CAD
+* **Interest Rate:** Fixed Rate of 4.85% per annum, calculated semi-annually, not in advance.
+* **Term:** Five (5) Years, commencing on the Interest Adjustment Date.
+* **Amortization Period:** Twenty-Five (25) Years.
+* **Payment Frequency:** Monthly.
+* **Payment Amount:** $4,295.42 CAD (estimated blended principal and interest).
+* **Maturity Date:** January 24, 2031.
+
+**3.02 Compound Interest.**
+In the event of default in any payment of interest, such arrears of interest shall themselves bear interest at the Interest Rate, compounded semi-annually, as well after as before maturity, default, and judgment.
+
+---
+
+### ARTICLE IV: PREPAYMENT PRIVILEGES AND INDEMNITY
+
+**4.01 Restricted Prepayment.**
+Except as expressly provided herein, the Borrower shall have no right to prepay the Principal Amount prior to the Maturity Date.
+
+**4.02 Prepayment Privileges.**
+Provided the Borrower is not in default, the Borrower may:
+(a) Once per calendar year, increase the regular payment amount by up to fifteen percent (15%); and
+(b) Once per calendar year, make a lump sum payment on the principal of up to fifteen percent (15%) of the original Principal Amount.
+These privileges are non-cumulative.
+
+**4.03 Prepayment Penalty & Indemnity.**
+Should the Borrower prepay the Indebtedness in full prior to the Maturity Date (upon sale or refinance), the Borrower agrees to pay a penalty calculated as the **greater of**:
+(a) Three (3) months' interest on the amount prepaid at the Interest Rate; or
+(b) The **Interest Rate Differential (IRD)** amount, calculated based on the difference between the Interest Rate and the Lender’s Posted Rate for a mortgage term closest to the remaining term of this Agreement, multiplied by the outstanding principal and the remaining term.
+
+---
+
+### ARTICLE V: SECURITY INTEREST
+
+**5.01 The Charge.**
+As security for the repayment of the Indebtedness and the performance of all covenants herein, the Borrower hereby charges the Property to the Lender. This security is granted in accordance with the *Land Registration Reform Act* (Ontario).
+
+**5.02 Assignment of Rents.**
+As additional security, the Borrower hereby assigns, transfers, and sets over unto the Lender all rents and other monies now due or hereafter to become due under any lease or agreement for the use or occupation of the Property.
+
+---
+
+### ARTICLE VI: BORROWER’S COVENANTS AND WARRANTIES
+
+The Borrower covenants, represents, and warrants to the Lender as follows:
+
+**6.01 Title and Authority.**
+The Borrower has good, valid, and marketable title to the Property in fee simple and has the full power and authority to charge the Property to the Lender.
+
+**6.02 Insurance.**
+The Borrower shall maintain, at its sole expense, fire and extended coverage insurance on the Property for the full replacement value, with the Lender designated as the "first loss payee" under the standard Insurance Bureau of Canada mortgage clause.
+
+**6.03 Property Taxes.**
+The Borrower shall promptly pay all municipal realty taxes, local improvement rates, and other public charges assessed against the Property. At the Lender's option, the Borrower shall contribute monthly tax installments to the Lender for remittance to the taxing authority.
+
+**6.04 Maintenance and Waste.**
+The Borrower shall maintain the Property in a good state of repair and shall not commit or permit any act of waste on the Property that effectively diminishes the value of the Lender’s security.
+
+**6.05 Compliance with Laws.**
+The Borrower shall comply with all applicable zoning, environmental, and building by-laws. The Borrower warrants that the Property shall not be used for any illegal purpose, nor for the cultivation, processing, or manufacture of illicit substances.
+
+---
+
+### ARTICLE VII: DEFAULT AND ACCELERATION
+
+**7.01 Events of Default.**
+The occurrence of any of the following shall constitute an "Event of Default":
+(a) Failure to pay any installment of principal or interest when due;
+(b) Breach of any covenant or warranty contained herein;
+(c) The Borrower becoming insolvent or bankrupt;
+(d) The registration of any construction lien or execution against the Property which is not discharged within ten (10) days.
+
+**7.02 Acceleration.**
+Upon the occurrence of an Event of Default, the Lender may, at its option and without notice, declare the entire Indebtedness immediately due and payable.
+
+---
+
+### ARTICLE VIII: REMEDIES, POWER OF SALE, AND FORECLOSURE
+
+**8.01 Power of Sale.**
+Upon default continuing for at least fifteen (15) days, the Lender may, on at least thirty-five (35) days’ written notice to the Persons entitled to notice under the *Mortgages Act* (Ontario), enter upon and lease or sell the Property. The Lender may sell the Property by public auction or private contract, and the proceeds of such sale shall be applied first to the costs of the sale, second to the Indebtedness, and the surplus, if any, to the Borrower or subsequent encumbrancers.
+
+**8.02 Foreclosure and Possession.**
+The Lender may concurrently, or in the alternative, institute proceedings for foreclosure to extinguish the Borrower's equity of redemption and take possession of the Property.
+
+**8.03 Remedies Cumulative.**
+No remedy herein conferred upon or reserved to the Lender is intended to be exclusive of any other remedy, but each and every such remedy shall be cumulative and shall be in addition to every other remedy given hereunder or now or hereafter existing at law or in equity.
+
+---
+
+### ARTICLE IX: MISCELLANEOUS
+
+**9.01 Governing Law.**
+This Agreement shall be governed by and construed in accordance with the laws of the Province of Ontario and the federal laws of Canada applicable therein.
+
+**9.02 Severability.**
+If any provision of this Agreement is determined to be invalid or unenforceable, such provision shall be severed from this Agreement, and the remaining provisions shall remain in full force and effect.
+
+**9.03 Joint and Several Liability.**
+If more than one party executes this Agreement as Borrower, their liability hereunder shall be joint and several.
+
+**IN WITNESS WHEREOF**, the parties have executed this Agreement as of the date first written above.
+
+---
+
+**DOMINION SOVEREIGN BANK OF CANADA**
+Per: Authorized Signatory
+
+---
+
+**JOHN ARTHUR DOE**
+Witness: __________________
