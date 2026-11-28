@@ -1,0 +1,317 @@
+Burrito Shop Task List
+
+
+Orders waiting: 0
+
+Transactions waiting: 0
+
+
+What task will you do next?
+
+   1. Take a Burrito Order
+
+   2. Make a Burrito Order
+
+   3. Ring Out a Burrito Order
+
+   4. Wash Next Dish
+
+   5. Wash All Dishes
+
+   6. Close For the Day
+
+Enter your choice: 1
+
+What size [small/large]: small
+
+What protein [chicken/steak/carnitas/sofritas/none]: chicken
+
+What rice [white/brown/none]: white
+
+What beans [black/pinto/none]: pinto
+
+What other toppings (comma list): sour cream, cheese
+
+Do you want guacamole [Y/N]: Y
+
+
+Burrito Shop Task List
+
+
+Orders waiting: 1
+
+Transactions waiting: 0
+
+
+What task will you do next?
+
+   1. Take a Burrito Order
+
+   2. Make a Burrito Order
+
+   3. Ring Out a Burrito Order
+
+   4. Wash Next Dish
+
+   5. Wash All Dishes
+
+   6. Close For the Day
+
+Enter your choice: 1
+
+What size [small/large]: large
+
+What protein [chicken/steak/carnitas/sofritas/none]: steak
+
+What rice [white/brown/none]: brown
+
+What beans [black/pinto/none]: pinto
+
+What other toppings (comma list): salsa, hot sauce, cheese
+
+Do you want guacamole [Y/N]: N
+
+
+Burrito Shop Task List
+
+
+Orders waiting: 2
+
+Transactions waiting: 0
+
+
+What task will you do next?
+
+   1. Take a Burrito Order
+
+   2. Make a Burrito Order
+
+   3. Ring Out a Burrito Order
+
+   4. Wash Next Dish
+
+   5. Wash All Dishes
+
+   6. Close For the Day
+
+Enter your choice: 2
+
+
+Burrito Shop Task List
+
+
+Orders waiting: 1
+
+Transactions waiting: 1
+
+
+What task will you do next?
+
+   1. Take a Burrito Order
+
+   2. Make a Burrito Order
+
+   3. Ring Out a Burrito Order
+
+   4. Wash Next Dish
+
+   5. Wash All Dishes
+
+   6. Close For the Day
+
+Enter your choice: 3
+
+Customer Charged $11.00
+
+
+Burrito Shop Task List
+
+
+Orders waiting: 1
+
+Transactions waiting: 0
+
+
+What task will you do next?
+
+   1. Take a Burrito Order
+
+   2. Make a Burrito Order
+
+   3. Ring Out a Burrito Order
+
+   4. Wash Next Dish
+
+   5. Wash All Dishes
+
+   6. Close For the Day
+
+Enter your choice: 3
+
+no orders to ring out - take more orders
+
+
+Burrito Shop Task List
+
+
+Orders waiting: 1
+
+Transactions waiting: 0
+
+
+What task will you do next?
+
+   1. Take a Burrito Order
+
+   2. Make a Burrito Order
+
+   3. Ring Out a Burrito Order
+
+   4. Wash Next Dish
+
+   5. Wash All Dishes
+
+   6. Close For the Day
+
+Enter your choice: 2
+
+
+Burrito Shop Task List
+
+
+Orders waiting: 0
+
+Transactions waiting: 1
+
+
+What task will you do next?
+
+   1. Take a Burrito Order
+
+   2. Make a Burrito Order
+
+   3. Ring Out a Burrito Order
+
+   4. Wash Next Dish
+
+   5. Wash All Dishes
+
+   6. Close For the Day
+
+Enter your choice: 3
+
+Customer Charged $11.50
+
+
+Burrito Shop Task List
+
+
+Orders waiting: 0
+
+Transactions waiting: 0
+
+
+What task will you do next?
+
+   1. Take a Burrito Order
+
+   2. Make a Burrito Order
+
+   3. Ring Out a Burrito Order
+
+   4. Wash Next Dish
+
+   5. Wash All Dishes
+
+   6. Close For the Day
+
+Enter your choice: 6
+
+Cannot close yet, there is still work to be done
+
+
+Burrito Shop Task List
+
+
+Orders waiting: 0
+
+Transactions waiting: 0
+
+
+What task will you do next?
+
+   1. Take a Burrito Order
+
+   2. Make a Burrito Order
+
+   3. Ring Out a Burrito Order
+
+   4. Wash Next Dish
+
+   5. Wash All Dishes
+
+   6. Close For the Day
+
+Enter your choice: 4
+
+a spoon was washed
+
+
+Burrito Shop Task List
+
+
+Orders waiting: 0
+
+Transactions waiting: 0
+
+
+What task will you do next?
+
+   1. Take a Burrito Order
+
+   2. Make a Burrito Order
+
+   3. Ring Out a Burrito Order
+
+   4. Wash Next Dish
+
+   5. Wash All Dishes
+
+   6. Close For the Day
+
+Enter your choice: 5
+
+the following dishes have been washed:
+
+    spoon
+
+    plate
+
+    plate
+
+
+Burrito Shop Task List
+
+
+Orders waiting: 0
+
+Transactions waiting: 0
+
+
+What task will you do next?
+
+   1. Take a Burrito Order
+
+   2. Make a Burrito Order
+
+   3. Ring Out a Burrito Order
+
+   4. Wash Next Dish
+
+   5. Wash All Dishes
+
+   6. Close For the Day
+
+Enter your choice: 6
+
+Great Work Today!
